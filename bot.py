@@ -4,7 +4,7 @@ import time
 import re
 import os
 
-TOKEN = os.getenv("KEY")
+TOKEN = os.getenv("TOKEN")
 GUILD_ID = 1450503984778317918
 LOG_CHANNEL_ID = 1466896972475531447
 ADMIN_ROLE = "god"
